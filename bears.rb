@@ -1,6 +1,3 @@
-require_relative('river')
-require_relative('fish')
-
 class Bear
 
   attr_reader(:name, :species, :tummy)
